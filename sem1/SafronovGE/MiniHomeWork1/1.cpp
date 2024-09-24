@@ -1,15 +1,8 @@
 #include <iostream>
-void square(float b)
-{
-    std::cout << "Площадь квадрата = "<< b*b << std::endl;
+void square_area(int side_square) {
+    std::cout << side_square * side_square << "\n";
+    return;
 }
-
-int main()
-{
-    int a;
-    setlocale(LC_ALL, "ru");
-    std::cout << "Введите длину стороны" << std::endl;
-    std::cin >> a;
-    square(a);
-    return 0;
+int main() {
+    square_area(2);
 }
