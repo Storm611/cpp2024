@@ -6,3 +6,4 @@ void square_area(int side_square) {
 int main() {
     square_area(2);
 }
+
