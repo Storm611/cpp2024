@@ -1,0 +1,23 @@
+Shop ForPCs
+Items 5
+NVIDIA6090 10000 10
+NVIDIA5090 9000 9
+NVIDIA4090 8000 8
+NVIDIA3090 7000 7
+NVIDIA2090 6000 6
+Shop Fruits
+Items 5
+Banana 3 1
+Apple 4 1
+Pineapple 3 1
+Lemon 10 1
+watermelon 1 10
+Shop Swag
+Items 7
+Air Jordan1 1000 5
+T-shirt 500 1
+Crocs 1000 2
+Jacket 2000 10
+Cap 100 1
+AJFHAFH 11 41412
+qfjhqifh 224 4214
